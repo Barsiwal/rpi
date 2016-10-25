@@ -11,7 +11,7 @@ var palette = require('image-palette');
 var Color = require('color');
 var form = new FormData();
 var needle = require('needle');
-var url = "http://ec2-54-191-127-185.us-west-2.compute.amazonaws.com:3001/count";
+var url = "http://ec2-54-214-136-144.us-west-2.compute.amazonaws.com:3001/count";
 //var url = "http://192.168.0.1:3001/count";
 var p = './public/images/a.png';
 var temp;
